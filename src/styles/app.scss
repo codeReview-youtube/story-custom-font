@@ -1,0 +1,25 @@
+.app {
+  font-family: 'biorhyme';
+  width: 10em;
+  height: 15em;
+  margin: 0 auto;
+  margin-top: 2em;
+  display: flex;
+  flex-direction: column;
+  padding: 5em;
+  border-radius: 0.2em;
+  background-color: #eed334;
+  transition: all 500ms;
+}
+button {
+  outline: none;
+  border: 0;
+  padding: 0.4em;
+  border-radius: 0.2em;
+  font-family: 'ArmWrestler';
+}
+h1,
+h2,
+h3 {
+  font-family: 'ArmWrestler';
+}
